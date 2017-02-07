@@ -1,4 +1,4 @@
-# rtl_tcp on Raspberry pi
+# rtl_tcp on Raspberry Pi
 
 Turns your Raspberry Pi into SDR (Software Defined Radio) server.
 
